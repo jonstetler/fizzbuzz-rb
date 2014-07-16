@@ -56,7 +56,7 @@ class FizzBuzz
 	def render
 		values = computeFizzBuzz
 		print "#" * 10 + " --- TOP OF GRID --- " + "#" * 10
-		print "\n #{computeFizzBizz} \n"
+		print "\n #{computeFizzBuzz} \n"
 		print "#" * 10 + " --- BOTTOM OF GRID --- " + "#" * 10 + "\n"
 	end
 
